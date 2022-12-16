@@ -7,7 +7,6 @@
  */
 
 int _isupper(int c)
-	return (1);
 {
 char uppercase = 'A';
 int isupper = 0;
