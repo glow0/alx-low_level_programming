@@ -4,10 +4,10 @@
 /**
  * print_array - prints elements of an array of integers.
  * @a: pointer to array.
- * An: number of array elements
+ * @n: number of array elements
  * Return: void.
  */
-void print_array(int 8a, int n)
+void print_array(int *a, int n)
 {
 	int i;
 
