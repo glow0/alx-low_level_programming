@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * rev_sring - reverse the string.
+ * rev_string - reverse the string.
  * @s: pointer to string
  * Return: void.
  */
@@ -25,4 +25,4 @@ void rev_string(char *s)
 		k++;
 		j--;
 	}
-}	
+}
