@@ -1,3 +1,1 @@
-write a description of all the projects here
-
-^C
+0x06. C - More pointers, arrays and strings
